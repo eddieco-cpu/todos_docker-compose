@@ -7,20 +7,24 @@
 
 ## 專案結構
 
-root
-├── frontend
-│ ├── Dockerfile
-│ ├── package.json
-│ ├── server.js
-│ ├── public
-│ ├── src
-│ └── ...
-├── backend
-│ ├── Dockerfile
-│ ├── package.json
-│ ├── src
-│ └── ...
-└── docker-compose.yml
+```js
+/**
+    root
+    ├── frontend
+    │ ├── Dockerfile
+    │ ├── package.json
+    │ ├── server.js
+    │ ├── public
+    │ ├── src
+    │ └── ...
+    ├── backend
+    │ ├── Dockerfile
+    │ ├── package.json
+    │ ├── src
+    │ └── ...
+    └── docker-compose.yml
+ */
+```
 
 ## 專案細節
 
